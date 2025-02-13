@@ -20,7 +20,7 @@ Full-stack web app for students to register, view classes, and class assignments
 
 3. Add your own repository for the database by configuring the `application.properties` file in the `src/main/resources` directory with your database URL, username, and password. For example:
 
-Database Configuration: 
+``Database Configuration: 
 spring.datasource.url=jdbc:mysql://localhost:3306/your-database  # Replace with your database URL
 spring.datasource.username=your-username  # Replace with your database username
 spring.datasource.password=your-password  # Replace with your database password
